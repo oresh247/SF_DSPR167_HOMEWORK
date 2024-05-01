@@ -1,4 +1,4 @@
-# ПРОЕКТ 1 - Анализ вакансий из HeadHunter.
+# ПРОЕКТ 2 - Анализ вакансий из HeadHunter.
 ## Описание проекта
 
 **ЗАДАЧА:** Детальный анализ данных о вакансиях и работодателях с целью дальнейшего построения модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist.
@@ -20,8 +20,6 @@
 * Выводы можно дополнительно проиллюстрировать с помощью графиков. Они оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
 * Не забудьте удалить ячейку с данными соединения перед фиксацией работы в GitHub.
 
-
 ## Результат
-Результат работы представлен в файле: [OreshkinAV_Project_02_HH.ipynb](https://github.com/oresh247/SF_DSPR167_HOMEWORK/blob/main/PROJECT_01/OreshkinAV_Project_01_HH.ipynb)
+Результат работы представлен в файле: [OreshkinAV_Project_02_HH.ipynb](https://github.com/oresh247/SF_DSPR167_HOMEWORK/blob/main/PROJECT_02/OreshkinAV_Project_02_HH.ipynb)
 
-Просмотр графиков на **nbviewer.org**: [OreshkinAV_Project_01_HH.ipynb](https://nbviewer.org/github/oresh247/SF_DSPR167_HOMEWORK/blob/main/PROJECT_01/OreshkinAV_Project_01_HH.ipynb)
