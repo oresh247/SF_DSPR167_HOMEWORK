@@ -23,7 +23,7 @@
 ## Результат
 Результат работы представлен в файле: [OreshkinAV_Project_02_HH.ipynb](https://github.com/oresh247/SF_DSPR167_HOMEWORK/blob/main/PROJECT_02/OreshkinAV_Project_02_HH.ipynb)
 
-Просмотр графиков на **nbviewer.org**: [OreshkinAV_Project_01_HH.ipynb](https://nbviewer.org/github/oresh247/SF_DSPR167_HOMEWORK/blob/main/PROJECT_02/OreshkinAV_Project_02_HH.ipynb)
+Просмотр графиков на **nbviewer.org**: [OreshkinAV_Project_02_HH.ipynb](https://nbviewer.org/github/oresh247/SF_DSPR167_HOMEWORK/blob/main/PROJECT_02/OreshkinAV_Project_02_HH.ipynb)
 
 
 
